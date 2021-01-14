@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Arnon
 
 <!--
-**MegaNoam/MegaNoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arnonGPMC/arnonGPMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <br/> 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnongpmc&theme=dark)]
+<img align="left" alt="arnonGPMC's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnongpmc&theme=dark"/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 
 <br/> <br/>
 
-<img align="left" alt="MegaNoam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnonGPMC&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark"/>
+<img align="left" alt="arnonGPMC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnonGPMC&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark"/>
 
 [youtube]: https://www.youtube.com/channel/UCtkj4WKtBfPBAA1ue8BzspA
 [discord]: https://discord.com/users/512965766862209025
