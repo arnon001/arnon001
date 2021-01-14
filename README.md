@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="arnon001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg"/>][discord]
 <!--[<img align="left" alt="MegaNoam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]-->
  <br>
+ 
 # Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
