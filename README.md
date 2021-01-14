@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 ### Ekoloko v2.0 Owner, Javascript Developer, YouTube content creator and kinda gamer
 
-### Contact with me:
+# Contact with me:
 
 [<img align="left" alt="arnon001 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="arnon001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg"/>][discord]
 <!--[<img align="left" alt="MegaNoam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]-->
-
-<br> 
-### Languages and Tools:
+ 
+# Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
 <img align="left" alt="Javascript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"/>
