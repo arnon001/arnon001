@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/> 
 ### Top Languages
 <img align="left" alt="arnonGPMC's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnongpmc&theme=dark"/>
-
+<br/>
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
