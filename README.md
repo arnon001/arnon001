@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
 <img align="left" alt="Bash" width="26px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/>
 <img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img align="left" alt="C#" width="26px" src="https://s136.convertio.me/p/oZcZbg0-s6onqLitvj9oVQ/9891bafdd22b184c2c105ab774980b17/Csharp_Logo.svg"/>
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/>
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"/>
 
