@@ -26,23 +26,23 @@ Here are some ideas to get you started:
  
 # Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
-<img align="left" alt="Javascript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"/>
-<img align="left" alt="Git" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/52/52040.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/38/38401.svg"/>
-<img align="left" alt="Html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"/>
-<img align="left" alt="Css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img align="left" alt="Javascript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"/>
+<img align="left" alt="Html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
+<img align="left" alt="Css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
 <img align="left" alt="Bash" width="26px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"/>
 <img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
-<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg"/>
-<img align="left" alt="Google Cloud" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/873/873117.svg"/>
+<img align="left" alt="C#" width="26px" src="https://s136.convertio.me/p/oZcZbg0-s6onqLitvj9oVQ/9891bafdd22b184c2c105ab774980b17/Csharp_Logo.svg"/>
+<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/>
+<img align="left" alt="Google Cloud" width="26px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"/>
 
 
 <br> <br>
 
-<img align="left" alt="arnonGPMC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnonGPMC&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark"/><br>
-<img align="left" alt="arnonGPMC's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnongpmc&theme=dark"/>
+<img align="left" alt="arnon001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnon001&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark"/><br>
+<img align="left" alt="arnon001's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnon001&theme=dark"/>
 
 [youtube]: https://www.youtube.com/channel/UCtkj4WKtBfPBAA1ue8BzspA
 [discord]: https://discord.com/users/512965766862209025
