@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Ekoloko v2.0 Owner, Javascript Developer, YouTube content creator and kinda gamer
-
+I STAND WITH ISRAEL! 
+<img align="middle" src="https://media.istockphoto.com/id/1369394082/photo/israel.jpg?s=612x612&w=0&k=20&c=DG9NWj3THxDz8h7mfwq1pOigizht8QDDzuWaouKbO7o="/>
 # Contact with me:
 
 [<img align="left" alt="arnon001 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="arnon001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg"/>][discord]
-<!--[<img align="left" alt="MegaNoam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]-->
- <br>
+<br>
  
 # Languages and Tools:
 
@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 
 [youtube]: https://www.youtube.com/channel/UCtkj4WKtBfPBAA1ue8BzspA
 [discord]: https://discord.com/users/512965766862209025
-<!--[twitter]: https://www.twitter.com/MegaNoam-->
