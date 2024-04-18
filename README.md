@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Ekoloko v2.0 Owner, Javascript Developer, YouTube content creator and kinda gamer
-<a align="middle">I STAND WITH ISRAEL!</a>
-<br>
-<img align="middle" src="https://media.istockphoto.com/id/1369394082/photo/israel.jpg?s=612x612&w=0&k=20&c=DG9NWj3THxDz8h7mfwq1pOigizht8QDDzuWaouKbO7o="/>
+### Ekoloko v2.0 Owner, Javascript Developer, YouTube content creator, kinda gamer, FIRST Alum and FRC team Mentor
 # Contact with me:
 
 [<img align="left" alt="arnon001 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
