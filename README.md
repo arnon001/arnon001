@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Ekoloko Rewritten Developer, Javascript Developer, YouTube content creator, kinda gamer, FIRST Alum and FRC team Mentor
+### Ekoloko Rewritten Developer, Javascript Developer, YouTube content creator, kinda gamer and FIRST Alum
 # Contact with me:
 
 [<img align="left" alt="arnon001 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
